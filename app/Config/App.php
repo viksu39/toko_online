@@ -21,7 +21,7 @@ class App extends BaseConfig
 	| environments.
 	|
 	*/
-	public $baseURL = 'http://localhost:8081/toko_online/public';
+	public $baseURL = 'http://localhost:8081/toko_online';
 	/*
 	|--------------------------------------------------------------------------
 	| Index File
