@@ -41,6 +41,7 @@
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
     <script src="<?= base_url('bootstrap4/js/bootstrap.min.js') ?>"></script>
+    <script src="<?= base_url('popper.js') ?>"></script>
     <script src="<?= base_url('jquery-3.5.1.min.js') ?>"></script>
   </body>
 </html>
